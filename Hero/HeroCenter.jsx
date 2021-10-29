@@ -1,6 +1,6 @@
 import React from 'react'
 import OutlineButton from './OutlineButton'
-//comment//////////
+//comment////////////
 export default function HeroCenter({title, image}) {
     return (
         <div className="w-full flex flex-col justify-center items-center gap-y-2">
